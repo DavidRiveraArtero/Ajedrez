@@ -103,8 +103,6 @@ function App() {
           }
         </section>
       </main>
-      
-      <TimeBoard/>
     </>
   )
 }
